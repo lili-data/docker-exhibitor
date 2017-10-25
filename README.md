@@ -7,7 +7,7 @@
 
 ## Build
 
-    docker build liligo/exhibitor:TAG .
+    docker build lilidata/exhibitor:TAG .
 
 
 ## Configuration
@@ -24,7 +24,7 @@ The container will require 3 parameters so start:
 
 ## How to run
 
-Use-cases can differ but you can check how we use it [liligo/dataplatform](https://hub.docker.com/r/lilidata/dataplatform/)
+Use-cases can differ but you can check how we use it [lilidata/dataplatform](https://hub.docker.com/r/lilidata/dataplatform/)
 
 # License
 
