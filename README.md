@@ -25,3 +25,7 @@ The container will require 3 parameters so start:
 ## How to run
 
 Use-cases can differ but you can check how we use it [liligo/dataplatform](https://hub.docker.com/r/lilidata/dataplatform/)
+
+# License
+
+Licensed under the Apache License, Version 2.0: http://www.apache.org/licenses/LICENSE-2.0
